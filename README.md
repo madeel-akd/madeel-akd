@@ -1,5 +1,6 @@
-# <img width="1536" height="1024" alt="ChatGPT Image Jan 8, 2026, 04_59_16 PM" src="https://github.com/user-attachments/assets/8c8e6e1b-e8b4-4861-86d3-06c33f1f3d4f" />
-Hi 👋 I'm Adeel Khan
+ <img width="1455" height="439" alt="ChatGPT Image Jan 8, 2026, 04_59_16 PM 12" src="https://github.com/user-attachments/assets/53bd1c08-e71f-4430-91bd-b1474c809c99" />
+Hi
+👋 I'm Adeel Khan
 
 💻 JavaScript Learner | Frontend Developer in Progress   
 📍 Quetta, Pakistan  
