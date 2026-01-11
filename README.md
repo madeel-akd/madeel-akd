@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Adeel Khan
+
+💻 JavaScript Learner | Frontend Developer in Progress   
+📍 Quetta, Pakistan  
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **JavaScript & Web Development**
+- 🛠️ Practicing **DOM, Arrays, Functions**
+- 🎯 Goal: Become a **Full Stack Developer**
+- 🧠 Love solving coding problems
+
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript (Basics)
+
+## 📫 Connect With Me
+- GitHub: https://github.com/adeelkhan
 
 <!--
 **madeel-akd/madeel-akd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
