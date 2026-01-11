@@ -3,6 +3,7 @@ Hi
 👋 I'm Adeel Khan
 
 💻 JavaScript Learner | Frontend Developer in Progress   
+🎓 Modern Web Application Development | Sylani Mass IT Traning
 📍 Quetta, Pakistan  
 
 ## 👨‍💻 About Me
